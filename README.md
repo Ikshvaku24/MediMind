@@ -14,7 +14,7 @@
 3. **Integrated Pipeline**: Combines traditional methods with LLMs to provide an efficient, integrated solution for healthcare support.
 
 ## Achievements & Results
-- **Disease Prediction**: The **Trigram TF-IDF** model achieved the highest performance for disease prediction.
+- **Disease Prediction**: The **Trigram TF-IDF** model achieved the highest accuracy of 96% disease prediction.
 - **Question Answering**: BioBERT and GPT-2 models demonstrated high accuracy in answering medical questions.
 - **Performance Metrics**:
   - **BioBERT Validation Accuracy**: 94%
@@ -28,3 +28,5 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/medimind.git
+
+![View](image.jpg)
