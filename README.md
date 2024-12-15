@@ -29,4 +29,8 @@
    ```bash
    git clone https://github.com/yourusername/medimind.git
 
+## Architecture
+![View](image2.jpg)
+
+## UI
 ![View](image.jpg)
